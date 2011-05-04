@@ -14,7 +14,6 @@
   </project>
   <project name="CyanogenMod/android_dalvik" path="dalvik" remote="github" />
   <project name="CyanogenMod/android_development" path="development" remote="github" />
-  <project name="CyanogenMod/android_device_advent_vega" path="device/advent/vega" remote="github" />
   <project name="CyanogenMod/android_device_bn_encore" path="device/bn/encore" remote="github" />
   <project name="CyanogenMod/android_device_commtiva_z71" path="device/commtiva/z71" remote="github" />
   <project name="CyanogenMod/android_device_elocity_a7" path="device/elocity/a7" remote="github" />
@@ -42,7 +41,6 @@
   <project name="CyanogenMod/android_device_htc_passion" path="device/htc/passion" remote="github" />
   <project name="CyanogenMod/android_device_htc_passion-common" path="device/htc/passion-common" remote="github" />
   <project name="CyanogenMod/android_device_htc_saga" path="device/htc/saga" remote="github" />
-  <project name="CyanogenMod/android_device_htc_speedy" path="device/htc/speedy" remote="github" />
   <project name="CyanogenMod/android_device_htc_supersonic" path="device/htc/supersonic" remote="github" />
   <project name="CyanogenMod/android_device_htc_vision" path="device/htc/vision" remote="github" />
   <project name="CyanogenMod/android_device_huawei_ascend" path="device/huawei/ascend" remote="github" />
