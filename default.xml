@@ -9,7 +9,7 @@
   <project name="greenromproject/GRPmanifest" path="GRRmanifest" remote="github" revision="master" />
   <project name="CyanogenMod/android_bionic" path="bionic" remote="github" />
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" remote="github" />
-  <project name="greenromproject/android_build" path="build" remote="github" >
+  <project name="greenromproject/android_build" path="build" remote="github" revision="gingerbread" >
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="CyanogenMod/android_dalvik" path="dalvik" remote="github" />
@@ -88,7 +88,7 @@
   <project name="CyanogenMod/android_external_wpa_supplicant_6" path="external/wpa_supplicant_6" remote="github" />
   <project name="CyanogenMod/android_external_yaffs2" path="external/yaffs2" remote="github" />
   <project name="CyanogenMod/android_external_zlib" path="external/zlib" remote="github" />
-  <project name="greenromproject/android_frameworks_base" path="frameworks/base" remote="github" />
+  <project name="greenromproject/android_frameworks_base" path="frameworks/base" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_hardware_alsa_sound" path="hardware/alsa_sound" remote="github" />
   <project name="CyanogenMod/android_hardware_gpsshim" path="hardware/gpsshim" remote="github" />
   <project name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" remote="github" />
@@ -124,7 +124,7 @@
   <project name="CyanogenMod/android_packages_apps_Music" path="packages/apps/Music" remote="github" />
   <project name="CyanogenMod/android_packages_apps_Pacman" path="packages/apps/Pacman" remote="github" />
   <project name="CyanogenMod/android_packages_apps_Phone" path="packages/apps/Phone" remote="github" />
-  <project name="greenromproject/android_packages_apps_Protips" path="packages/apps/Protips" remote="github" />
+  <project name="greenromproject/android_packages_apps_Protips" path="packages/apps/Protips" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" remote="github" />
   <project name="CyanogenMod/android_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" remote="github" />
   <project name="CyanogenMod/android_packages_apps_Superuser" path="packages/apps/Superuser" remote="github" />
@@ -142,7 +142,7 @@
   <project name="CyanogenMod/android_system_netd" path="system/netd" remote="github" />
   <project name="CyanogenMod/android_system_vold" path="system/vold" remote="github" />
   <project name="CyanogenMod/android_system_wlan_ti" path="system/wlan/ti" remote="github" />
-  <project name="greenromproject/android_vendor_greenromproject" path="vendor/greenromproject" remote="github" />
+  <project name="greenromproject/android_vendor_greenromproject" path="vendor/greenromproject" remote="github" revision="master" />
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="github" />
   <project name="device/common" revision="e80457e2c7e742065b879d27141f2027a85c1fe7"/>
   <project name="device/sample" revision="e16854cd143b0c5623ab507461b028422a14d526"/>
