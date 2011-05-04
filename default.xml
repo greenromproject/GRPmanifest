@@ -17,7 +17,6 @@
   <project name="CyanogenMod/android_device_advent_vega" path="device/advent/vega" remote="github" />
   <project name="CyanogenMod/android_device_bn_encore" path="device/bn/encore" remote="github" />
   <project name="CyanogenMod/android_device_commtiva_z71" path="device/commtiva/z71" remote="github" />
-  <project name="CyanogenMod/android_device_dell_streak7" path="device/dell/streak7" remote="github" />
   <project name="CyanogenMod/android_device_elocity_a7" path="device/elocity/a7" remote="github" />
   <project name="CyanogenMod/android_device_geeksphone_one" path="device/geeksphone/one" remote="github" />
   <project name="CyanogenMod/android_device_geeksphone_zero" path="device/geeksphone/zero" remote="github" />
