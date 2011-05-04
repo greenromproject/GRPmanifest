@@ -42,7 +42,7 @@
   <project name="CyanogenMod/android_device_htc_saga" path="device/htc/saga" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_htc_supersonic" path="device/htc/supersonic" remote="github" />
   <project name="CyanogenMod/android_device_htc_vision" path="device/htc/vision" remote="github" />
-  <project name="CyanogenMod/android_device_huawei_ascend" path="device/huawei/ascend" remote="github" />
+  <project name="CyanogenMod/android_device_huawei_ascend" path="device/huawei/ascend" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_huawei_ideos" path="device/huawei/ideos" remote="github" />
   <project name="CyanogenMod/android_device_motorola_sholes" path="device/motorola/sholes" remote="github" />
   <project name="CyanogenMod/android_device_motorola_stingray" path="device/motorola/stingray" remote="github" />
