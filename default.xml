@@ -32,14 +32,14 @@
   <project name="CyanogenMod/android_device_htc_hero" path="device/htc/hero" remote="github" />
   <project name="CyanogenMod/android_device_htc_heroc" path="device/htc/heroc" remote="github" />
   <project name="CyanogenMod/android_device_htc_inc" path="device/htc/inc" remote="github" />
-  <project name="CyanogenMod/android_device_htc_incs" path="device/htc/incs" remote="github" />
+  <project name="CyanogenMod/android_device_htc_incs" path="device/htc/incs" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_htc_legend" path="device/htc/legend" remote="github" />
-  <project name="CyanogenMod/android_device_htc_leo" path="device/htc/leo" remote="github" />
+  <project name="CyanogenMod/android_device_htc_leo" path="device/htc/leo" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_htc_liberty" path="device/htc/liberty" remote="github" />
-  <project name="CyanogenMod/android_device_htc_mecha" path="device/htc/mecha" remote="github" />
+  <project name="CyanogenMod/android_device_htc_mecha" path="device/htc/mecha" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_htc_passion" path="device/htc/passion" remote="github" />
   <project name="CyanogenMod/android_device_htc_passion-common" path="device/htc/passion-common" remote="github" />
-  <project name="CyanogenMod/android_device_htc_saga" path="device/htc/saga" remote="github" />
+  <project name="CyanogenMod/android_device_htc_saga" path="device/htc/saga" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_htc_supersonic" path="device/htc/supersonic" remote="github" />
   <project name="CyanogenMod/android_device_htc_vision" path="device/htc/vision" remote="github" />
   <project name="CyanogenMod/android_device_huawei_ascend" path="device/huawei/ascend" remote="github" />
