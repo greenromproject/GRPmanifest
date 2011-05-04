@@ -43,11 +43,11 @@
   <project name="CyanogenMod/android_device_htc_supersonic" path="device/htc/supersonic" remote="github" />
   <project name="CyanogenMod/android_device_htc_vision" path="device/htc/vision" remote="github" />
   <project name="CyanogenMod/android_device_huawei_ascend" path="device/huawei/ascend" remote="github" revision="gingerbread" />
-  <project name="CyanogenMod/android_device_huawei_ideos" path="device/huawei/ideos" remote="github" />
+  <project name="CyanogenMod/android_device_huawei_ideos" path="device/huawei/ideos" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_motorola_sholes" path="device/motorola/sholes" remote="github" />
   <project name="CyanogenMod/android_device_motorola_stingray" path="device/motorola/stingray" remote="github" />
   <project name="CyanogenMod/android_device_motorola_zeppelin" path="device/motorola/zeppelin" remote="github" />
-  <project name="CyanogenMod/android_device_samsung_crespo" path="device/samsung/crespo" remote="github" />
+  <project name="CyanogenMod/android_device_samsung_crespo" path="device/samsung/crespo" remote="github" revision="gingerbread" />
   <project name="CyanogenMod/android_device_samsung_epic4g" path="device/samsung/epic4g" remote="github" />
   <project name="CyanogenMod/android_device_samsung_fascinate" path="device/samsung/fascinate" remote="github" />
   <project name="CyanogenMod/android_device_samsung_vzwtab" path="device/samsung/vzwtab" remote="github" />
