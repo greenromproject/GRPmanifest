@@ -6,7 +6,7 @@
   
   <default remote="korg" revision="refs/tags/cm-7.0.2.1"/>
   
-  <project name="greenromproject/GRPmanifest" path="GRRmanifest" remote="github" />
+  <project name="greenromproject/GRPmanifest" path="GRRmanifest" remote="github" revision="master" />
   <project name="CyanogenMod/android_bionic" path="bionic" remote="github" />
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" remote="github" />
   <project name="greenromproject/android_build" path="build" remote="github" >
