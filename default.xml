@@ -139,7 +139,7 @@
   <project name="CyanogenMod/android_system_vold" path="system/vold" remote="github" />
   <project name="CyanogenMod/android_system_wlan_ti" path="system/wlan/ti" remote="github" />
   <project name="greenromproject/android_vendor_greenromproject" path="vendor/greenromproject" remote="github" revision="master" />
-  <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="github" revision="gingerbread" />
+  <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="github" revision="master" />
   <project name="device/common" revision="e80457e2c7e742065b879d27141f2027a85c1fe7"/>
   <project name="device/sample" revision="e16854cd143b0c5623ab507461b028422a14d526"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
