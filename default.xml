@@ -84,7 +84,7 @@
   <project name="CyanogenMod/android_external_wpa_supplicant_6" path="external/wpa_supplicant_6" remote="github" />
   <project name="CyanogenMod/android_external_yaffs2" path="external/yaffs2" remote="github" />
   <project name="CyanogenMod/android_external_zlib" path="external/zlib" remote="github" />
-  <project name="greenromproject/android_frameworks_base" path="frameworks/base" remote="github" revision="gingerbread" />
+  <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" remote="github" />
   <project name="CyanogenMod/android_hardware_alsa_sound" path="hardware/alsa_sound" remote="github" />
   <project name="CyanogenMod/android_hardware_gpsshim" path="hardware/gpsshim" remote="github" />
   <project name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" remote="github" />
