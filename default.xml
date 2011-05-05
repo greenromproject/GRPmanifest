@@ -58,7 +58,7 @@
   <project name="CyanogenMod/android_external_bluetooth_bluez" path="external/bluetooth/bluez" remote="github" />
   <project name="CyanogenMod/android_external_busybox" path="external/busybox" remote="github" />
   <project name="CyanogenMod/android_external_clearsilver" path="external/clearsilver" remote="github" />
-  <project name="CyanogenMod/android_external_compcache" path="external/compcache" remote="github" />
+  <project name="CyanogenMod/android_external_compcache" path="external/compcache" remote="github" revision="gingerbread-release" />
   <project name="CyanogenMod/android_external_dropbear" path="external/dropbear" remote="github" />
   <project name="CyanogenMod/android_external_e2fsprogs" path="external/e2fsprogs" remote="github" />
   <project name="CyanogenMod/android_external_flac" path="external/flac" remote="github" />
