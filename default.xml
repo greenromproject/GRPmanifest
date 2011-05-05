@@ -4,7 +4,7 @@
   <remote fetch="http://android.git.kernel.org/" name="korg" review="review.source.android.com"/>
   <remote fetch="http://github.com/tmobile" name="themes"/>
   
-  <default remote="korg" revision="refs/tags/cm-7.0.2.1"/>
+  <default remote="korg" revision="gingerbread"/>
   
   <project name="greenromproject/GRPmanifest" path="GRRmanifest" remote="github" revision="master" />
   <project name="CyanogenMod/android_bionic" path="bionic" remote="github" />
@@ -180,7 +180,7 @@
   <project name="platform/external/jhead" path="external/jhead" revision="fd983181d9043cdf45497ace19c60fd9e4e1799c"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="8e937939899d5fe3a6864c7ecb9bb8632678a7c7"/>
   <project name="platform/external/junit" path="external/junit" revision="e9b8080d6d80d17729e0b7f8b1d2b573b3456cc4"/>
-  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="4879d6a8f2cd33b6b725666bc8f5b48f007db2a6"/>
+  <project name="platform/external/kernel-headers" path="external/kernel-headers" />
   <project name="platform/external/libffi" path="external/libffi" revision="5dea54fd57265ce037ac94055b9f94a45558b39e"/>
   <project name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp" revision="442bead483a0a6fd9254fc83a5ea76474c6dbbe7"/>
