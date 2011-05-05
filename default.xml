@@ -77,7 +77,7 @@
   <project name="CyanogenMod/android_external_sqlite" path="external/sqlite" remote="github" />
   <project name="CyanogenMod/android_external_strace" path="external/strace" remote="github" />
   <project name="CyanogenMod/android_external_v8" path="external/v8" remote="github" />
-  <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github" />
+  <project name="CyanogenMod/android_external_vim" path="external/vim" remote="github" revision="gingerbread-release" />
   <project name="CyanogenMod/android_external_webkit" path="external/webkit" remote="github" />
   <project name="CyanogenMod/android_external_wireless-tools" path="external/wireless-tools" remote="github" />
   <project name="CyanogenMod/android_external_wpa_supplicant" path="external/wpa_supplicant" remote="github" />
