@@ -2,11 +2,13 @@
 <manifest>
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
-           review="review.source.android.com" />
+           review="review.source.android.com"
+	   revision="master" />
 
   <remote  name="github"
            fetch="git://github.com/"
-           review="review.cyanogenmod.com" />
+           review="review.cyanogenmod.com"
+           revision="gingerbread" />
 
   <remote  name="themes"
            fetch="git://github.com/tmobile" />
