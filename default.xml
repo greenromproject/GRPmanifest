@@ -18,13 +18,13 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
-  <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
+  <project path="bootable/bootloader/legacy" name="greenromproject/android_bootable_bootloader_legacy" remote="github" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="master" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" remote="github" />
-  <project path="device/common" name="device/common" revision="master" />
+  <project path="device/common" name="greenromproject/device_common" remote="github" />
   <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" remote="github" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" />
   <project path="device/dell/streak7" name="CyanogenMod/android_device_dell_streak7" remote="github" />
