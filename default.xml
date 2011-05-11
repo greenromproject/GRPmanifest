@@ -258,12 +258,12 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="themes-platform-vendor-tmobile-providers-ThemeManager" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/themes/Androidian" name="themes-platform-vendor-tmobile-themes-Androidian" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
 <!-- GreenRomProject Overlay and Packages -->
-  <project path="vendor/greenromproject" name="greenromproject/android_vendor_greenromproject" remote="github" revision="master" />
   <project path="GRPmanifest" name="greenromproject/GRPmanifest" remote="github" revision="master" />
-  <project path="vendor/greenromproject/build/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
+  <project path="vendor/greenromproject" name="greenromproject/android_vendor_greenromproject" remote="github" revision="master" />
+  <project path="vendor/tmobile/themes/build/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
+  <project path="vendor/greenromproject/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="github" revision="master" />
 
 <!-- Proprietary files to build for any device -->
   <project path="device/motorola/droid2" name="cvpcs/android_device_motorola_droid2" remote="github" />
