@@ -262,7 +262,7 @@
 <!-- GreenRomProject Overlay and Packages -->
   <project path="GRPmanifest" name="greenromproject/GRPmanifest" remote="github" revision="master" />
   <project path="vendor/greenromproject" name="greenromproject/android_vendor_greenromproject" remote="github" revision="master" />
-  <project path="vendor/tmobile/themes/build/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
+  <project path="vendor/tmobile/themes/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
   <project path="vendor/tmobile/products/themes" name="greenromproject/themes-platform-vendor-tmobile-products-themes" remote="github" revision="refs/heads/master" />
 
 <!-- Proprietary files to build for any device -->
