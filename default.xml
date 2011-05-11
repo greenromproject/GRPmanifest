@@ -260,14 +260,23 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
-<!-- GreenRomProject Overlay -->
+<!-- GreenRomProject Overlay and Packages -->
   <project path="vendor/greenromproject" name="greenromproject/android_vendor_greenromproject" remote="github" revision="master" />
   <project path="GRPmanifest" name="greenromproject/GRPmanifest" remote="github" revision="master" />
+  <project path="vendor/greenromproject/themes/Greenie" remote="github" revision="master" />
 
 <!-- Proprietary files to build for any device -->
+  <project path="vendor/acer" name="xian1243/proprietary_vendor_acer" remote="github" />
+  <project path="vendor/bn" name="koush/proprietary_vendor_bn" remote="github" />
+  <project path="vendor/commtiva" name="rmcc/proprietary_vendor_commtiva" remote="github" />
+  <project path="vendor/geeksphone" name="rmcc/proprietary_vendor_geeksphone" remote="github" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
+  <project path="vendor/lge" name="koush/proprietary_vendor_lge" remote="github" />
+  <project path="vendor/malata" name="bekriebel/proprietary_vendor_malata" remote="github" />
   <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" remote="github" />
   <project path="vendor/nvidia" name="koush/proprietary_vendor_nvidia" remote="github" />
+  <project path="vendor/samsung" name="wesgarner/proprietary_vendor_samsung" remote="github" />
+  <project path="vendor/zte" name="HCDRJacob/proprietary_vendor_zte" remote="github" />
 
 
 </manifest>
