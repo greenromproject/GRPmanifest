@@ -263,7 +263,7 @@
 <!-- GreenRomProject Overlay and Packages -->
   <project path="vendor/greenromproject" name="greenromproject/android_vendor_greenromproject" remote="github" revision="master" />
   <project path="GRPmanifest" name="greenromproject/GRPmanifest" remote="github" revision="master" />
-  <project path="vendor/greenromproject/themes/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
+  <project path="vendor/greenromproject/build/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
 
 <!-- Proprietary files to build for any device -->
   <project path="device/motorola/droid2" name="cvpcs/android_device_motorola_droid2" remote="github" />
