@@ -266,7 +266,7 @@
   <project path="vendor/tmobile/products/themes" name="greenromproject/themes-platform-vendor-tmobile-products-themes" remote="github" revision="refs/heads/master" />
 
 <!-- Proprietary files to build for any device -->
-  <project path="device/motorola/droid2" name="koush/android_device_motorola_droid2" remote="github" />
+  <project path="device/motorola/droid2" name="cvpcs/android_device_motorola_droid2" remote="github" />
   <project path="vendor/motorola/droid2" name="koush/android_vendor_motorola_droid2" remote="github" revision="master" />
   <project path="vendor/acer" name="xian1243/proprietary_vendor_acer" remote="github" revision="master" />
   <project path="vendor/bn" name="koush/proprietary_vendor_bn" remote="github" />
