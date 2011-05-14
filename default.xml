@@ -273,7 +273,7 @@
   <project path="vendor/commtiva" name="rmcc/proprietary_vendor_commtiva" remote="github" revision="master" />
   <project path="vendor/geeksphone" name="rmcc/proprietary_vendor_geeksphone" remote="github" revision="master" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
-  <project path="vendor/htc/desirec" name="optedoblivion/proprietart_vendor_htc_desirec" remote="github" revision="master" />
+  <project path="vendor/htc/desirec" name="optedoblivion/proprietary_vendor_htc_desirec" remote="github" revision="master" />
   <project path="vendor/lge" name="koush/proprietary_vendor_lge" remote="github" />
   <project path="vendor/malata" name="bekriebel/proprietary_vendor_malata" remote="github" />
   <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" remote="github" />
