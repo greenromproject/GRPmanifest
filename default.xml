@@ -279,6 +279,7 @@
   <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" remote="github" />
   <project path="vendor/nvidia" name="koush/proprietary_vendor_nvidia" remote="github" />
   <project path="vendor/samsung" name="codeworkx/proprietary_vendor_samsung" remote="github" />
+  <project path="vendor/samsung/fascinate" name="punk-kaos/vendor_samsung_proprietary" remote="github" />
   <project path="vendor/zte" name="HCDRJacob/proprietary_vendor_zte" remote="github" revision="master" />
 
 
