@@ -229,7 +229,6 @@
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" remote="github" />
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" remote="github" />
-  <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" remote="github" />
@@ -273,6 +272,7 @@
 
 <!-- GreenRomProject Overlay and Packages -->
   <project path="GRPmanifest" name="greenromproject/GRPmanifest" remote="github" revision="master" />
+  <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" />
   <project path="vendor/greenromproject" name="greenromproject/android_vendor_greenromproject" remote="github" revision="master" />
   <project path="vendor/tmobile/themes/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
   <project path="vendor/tmobile/products/themes" name="greenromproject/themes-platform-vendor-tmobile-products-themes" remote="github" revision="refs/heads/master" />
