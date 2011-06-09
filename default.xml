@@ -23,7 +23,7 @@
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" />
-  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
+<!--   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />  -->
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" remote="github" />
   <project path="device/common" name="device/common" />
@@ -183,7 +183,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" />
+<!--   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" />  -->
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
@@ -233,7 +233,7 @@
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" remote="github" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" remote="github" />
+<!--   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" remote="github" />  -->
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
@@ -258,7 +258,7 @@
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="CyanogenMod/android_system_core" remote="github" />
+<!--   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" />  -->
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
@@ -273,8 +273,12 @@
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
 <!-- GreenRomProject Overlay and Packages -->
+  <project path="dalvik" name="greenromproject/android_dalvik" remote="github" />
+  <project path="frameworks/base" name="greenromproject/android_frameworks_base" remote="github" />
   <project path="GRPmanifest" name="greenromproject/GRPmanifest" remote="github" revision="master" />
-  <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" />
+  <project path="packages/apps/Settings" name="greenromproject/android_packages_apps_Settings" remote="github" />
+  <project path="packages/apps/Protips" name="greenromproject/android_packages_apps_Protips" remote="github" />
+  <project path="system/core" name="greenromproject/android_system_core" remote="github" />
   <project path="vendor/greenromproject" name="greenromproject/android_vendor_greenromproject" remote="github" revision="master" />
   <project path="vendor/tmobile/themes/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
   <project path="vendor/tmobile/products/themes" name="greenromproject/themes-platform-vendor-tmobile-products-themes" remote="github" revision="refs/heads/master" />
