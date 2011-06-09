@@ -279,6 +279,9 @@
   <project path="vendor/tmobile/themes/Greenie" name="greenromproject/theme_greenromproject" remote="github" revision="master" />
   <project path="vendor/tmobile/products/themes" name="greenromproject/themes-platform-vendor-tmobile-products-themes" remote="github" revision="refs/heads/master" />
 
+<!-- GRP Experimental branch manifest will be kept local for all to see -->
+  <project path="GRPmanifest/grpexp" name="greenromproject/grpexp" remote="github" revision="master" />
+
 <!-- Proprietary files to build for any device -->
   <project path="device/motorola/droid2" name="cvpcs/android_device_motorola_droid2" remote="github" />
   <project path="vendor/motorola/droid2" name="koush/android_vendor_motorola_droid2" remote="github" revision="master" />
