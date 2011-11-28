@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
+           fetch="git://codeaurora.org/"
            review="review.source.android.com"
 	   revision="master" />
 
   <remote  name="github"
-           fetch="git://github.com/"
+           fetch="http://github.com/"
            review="review.cyanogenmod.com"
            revision="gingerbread" />
 
   <remote  name="themes"
-           fetch="git://github.com/tmobile" />
+           fetch="http://github.com/tmobile" />
 
   <default revision="gingerbread"
            remote="korg" />
@@ -34,7 +34,7 @@
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
   <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" remote="github" />
   <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" remote="github" />
-  <project path="device/huawei/ideos" name="CyanogenMod/android_device_huawei_ideos" remote="github" />
+  <!--project path="device/huawei/ideos" name="CyanogenMod/android_device_huawei_ideos" remote="github" /-->
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
