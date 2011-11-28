@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
+           fetch="http://codeaurora.org/platform/"
            review="review.source.android.com"
 	   revision="master" />
 
   <remote  name="github"
-           fetch="git://github.com/"
+           fetch="http://github.com/"
            review="review.cyanogenmod.com"
            revision="gingerbread" />
 
   <remote  name="themes"
-           fetch="git://github.com/tmobile" />
+           fetch="http://github.com/tmobile" />
 
   <default revision="gingerbread"
            remote="korg" />
