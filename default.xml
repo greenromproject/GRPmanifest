@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="korg"
-           fetch="http://codeaurora.org/platform/"
+           fetch="http://codeaurora.org/"
            review="review.source.android.com"
 	   revision="master" />
 
